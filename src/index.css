@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url(./jeshoots-com-pUAM5hPaCRI-unsplash.jpg);
+  background-size: cover;
+  opacity: 0.2px;
 }
 
 code {
